@@ -1,0 +1,12 @@
+{
+    "name": "stefan/stripe",
+    "authors": [
+        {
+            "name": "Stefan Nikolic",
+            "email": "stefanikolic018@gmail.com"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^7.100"
+    }
+}
